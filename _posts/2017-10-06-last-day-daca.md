@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #CLEANDREAMACT
+title: CLEANDREAMACT
 ---
 October 5th was the final day to file for the Deferred Action for Childhood Arrival (DACA) protection. Now undocumented 
 and documented young people alike are looking towards the possibility of immigration legislation that will allow for a path to
